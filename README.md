@@ -1,3 +1,7 @@
+# Presenting the MVP For the SMART INDIA HACKATHON
+
+- This repo can be considered as the Minimum Viable Product (MVP) for our main project
+
 # Mastermind In Python Pygame
 
 - Mastermind is a classic arcade code cracking game created in the 1970's
