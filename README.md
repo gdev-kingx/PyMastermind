@@ -18,3 +18,9 @@ The game is played using:
 - If so, the **_CodeMaker_** may choose up to four same-colored code pegs or four blanks. 
 - If blanks are not allowed in the code, the **_CodeBreaker_** may not use blanks in their guesses. 
 - The **_CodeMaker_** places the chosen pattern in the four holes covered by the shield, visible to the **_CodeMaker_** but not to the **_CodeBreaker_**.
+
+## OUTPUT
+
+![output](screenshot/Output.png)
+
+![output](screenshot/Output2.png)
